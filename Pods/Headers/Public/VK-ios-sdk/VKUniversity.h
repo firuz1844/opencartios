@@ -1,0 +1,1 @@
+../../../VK-ios-sdk/library/Source/API/models/VKUniversity.h

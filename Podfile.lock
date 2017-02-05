@@ -1,0 +1,92 @@
+PODS:
+  - Crashlytics (3.8.3):
+    - Fabric (~> 1.6.3)
+  - DACircularProgress (2.3.1)
+  - EDStarRating (1.1)
+  - Fabric (1.6.11)
+  - FXForms (1.2.14)
+  - ISO8601DateFormatterValueTransformer (0.6.1):
+    - RKValueTransformers (~> 1.1.0)
+  - Masonry (1.0.2)
+  - MBProgressHUD (0.9.2)
+  - MWPhotoBrowser (2.1.2):
+    - DACircularProgress (~> 2.3)
+    - MBProgressHUD (~> 0.9)
+    - SDWebImage (!= 3.7.2, ~> 3.7)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - RESideMenu (4.0.7)
+  - RestKit (0.27.0):
+    - RestKit/Core (= 0.27.0)
+  - RestKit/Core (0.27.0):
+    - RestKit/CoreData
+    - RestKit/Network
+    - RestKit/ObjectMapping
+  - RestKit/CoreData (0.27.0):
+    - RestKit/ObjectMapping
+  - RestKit/Network (0.27.0):
+    - RestKit/ObjectMapping
+    - RestKit/Support
+    - SOCKit
+  - RestKit/ObjectMapping (0.27.0):
+    - ISO8601DateFormatterValueTransformer (~> 0.6.1)
+    - RestKit/Support
+    - RKValueTransformers (~> 1.1.0)
+  - RestKit/Support (0.27.0):
+    - TransitionKit (~> 2.2)
+  - RKValueTransformers (1.1.3)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SOCKit (1.1)
+  - SVProgressHUD (2.1.2)
+  - TransitionKit (2.2.0)
+  - VK-ios-sdk (1.4.6)
+  - XLForm (3.3.0)
+
+DEPENDENCIES:
+  - Crashlytics
+  - EDStarRating
+  - Fabric
+  - FXForms (~> 1.2)
+  - Masonry (~> 1.0)
+  - MBProgressHUD (~> 0.8)
+  - MWPhotoBrowser
+  - ReactiveCocoa (~> 2.5)
+  - RESideMenu (~> 4.0.7)
+  - RestKit (~> 0.26)
+  - SDWebImage
+  - SVProgressHUD
+  - TransitionKit (= 2.2)
+  - VK-ios-sdk
+  - XLForm (~> 3.1)
+
+SPEC CHECKSUMS:
+  Crashlytics: 2b6dbe138a42395577cfa73dfa1aa7248cadf39e
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  EDStarRating: a41a6440a945020745d0e9ff8ada7d1afa952114
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  FXForms: 724500c0c3f3eb3ba1004b3b83abcee55d3daf18
+  ISO8601DateFormatterValueTransformer: 52da467d6ec899d6aedda8e48280ac92e8ee97e6
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MWPhotoBrowser: 5836d7aa041dc05a13de380c246826578adc5ea5
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+  RestKit: a0244db34e14ed9cf059fcee2be6733cc162c34a
+  RKValueTransformers: e5ed67e3811229b616fe01bddeeafe3bb337b1b9
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SOCKit: c7376ac262bea9115b8f749358f762522a47d392
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  TransitionKit: 5c9001a77acc409d71f26a4eba0159cf8619c418
+  VK-ios-sdk: 7fd48bc5aaa6b96c3197c1987eb6593f2ea67331
+  XLForm: d5c391dfc62865927b5bcab0a5a0dbfb3e02b0ec
+
+PODFILE CHECKSUM: d07cb8b1811a8315393f4ae3ffe11fd9e69dc538
+
+COCOAPODS: 1.0.1

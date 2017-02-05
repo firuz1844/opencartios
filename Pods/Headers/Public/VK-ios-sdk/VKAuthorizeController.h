@@ -1,0 +1,1 @@
+../../../VK-ios-sdk/library/Source/Views/VKAuthorizeController.h

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "48D90C55417714C88C1BCB5905A58770C6DC7077",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "48D90C55417714C88C1BCB5905A58770C6DC7077" : 0,
+    "980B6E5D56AA70A9AB65A0E5FF74CE1AD5BE02FF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F1087AD9-370D-4474-9831-E1803F802CF8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "48D90C55417714C88C1BCB5905A58770C6DC7077" : "opencart\/",
+    "980B6E5D56AA70A9AB65A0E5FF74CE1AD5BE02FF" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "opencart",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "opencart.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:servicetradellc\/opencart.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "48D90C55417714C88C1BCB5905A58770C6DC7077"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:firuz1844\/bahaipanel.ru.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "980B6E5D56AA70A9AB65A0E5FF74CE1AD5BE02FF"
+    }
+  ]
+}

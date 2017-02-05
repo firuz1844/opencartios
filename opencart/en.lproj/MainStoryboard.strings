@@ -1,0 +1,207 @@
+
+/* Class = "IBUILabel"; text = "26 890р."; ObjectID = "0F9-He-CxC"; */
+"0F9-He-CxC.text" = "26 890р.";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "0X1-bz-GXH"; */
+"0X1-bz-GXH.text" = "1";
+
+/* Class = "IBUILabel"; text = "First name"; ObjectID = "1fn-8U-NOP"; */
+"1fn-8U-NOP.text" = "First name";
+
+/* Class = "IBUINavigationItem"; title = "Service"; ObjectID = "22x-Nk-hmR"; */
+"22x-Nk-hmR.title" = "Service";
+
+/* Class = "IBUITextView"; text = "iQmac – это не просто магазин, куда люди приходят покупать такие необходимые вещи.\niQmac – это территория свободы. Территория, где нет правил и всё на грани. Территория, где можно стать самим собой. Хотя бы на 5 минут. Территория, где Вы можете забыть об условностях, статусе и фразе «а что подумают люди?». Да кому какая разница, кто что подумает! В iQmac можно не оглядываться на других.\nВ iQmac никому не интересно, насколько крута машина, на которой Вы ездите, соответствует ли моде Ваш костюм, хорошо ли сидит школьная форма, уместны ли эти стоптанные кроссовки.\nВ iQmac Вы приходите к друзьям. Разве друзья берут с Вас деньги за советы, новости или тогда, когда делятся картинками, музыкой и программами? Вот и мы не берем!\nВ iQmac всегда есть что-нибудь новенькое. Такое, чего нет больше нигде и ни у кого.\nВ iQmac можно позвонить по телефонам +7 918 9 222 222, +7 988 666 666 8 в любое время. Или прийти. Просто так. Когда весело или очень тоскливо.\nВ iQmac можно забыть о серой повседневности. Погрузиться в атмосферу веселья и радости.\nВ iQmac Вы сами диктуете условия и создаете собственный маленький мир, а мы просто хотим, чтобы Вам было в нем хорошо!\n"; ObjectID = "249-E2-kRJ"; */
+"249-E2-kRJ.text" = "iQmac – это не просто магазин, куда люди приходят покупать такие необходимые вещи.\niQmac – это территория свободы. Территория, где нет правил и всё на грани. Территория, где можно стать самим собой. Хотя бы на 5 минут. Территория, где Вы можете забыть об условностях, статусе и фразе «а что подумают люди?». Да кому какая разница, кто что подумает! В iQmac можно не оглядываться на других.\nВ iQmac никому не интересно, насколько крута машина, на которой Вы ездите, соответствует ли моде Ваш костюм, хорошо ли сидит школьная форма, уместны ли эти стоптанные кроссовки.\nВ iQmac Вы приходите к друзьям. Разве друзья берут с Вас деньги за советы, новости или тогда, когда делятся картинками, музыкой и программами? Вот и мы не берем!\nВ iQmac всегда есть что-нибудь новенькое. Такое, чего нет больше нигде и ни у кого.\nВ iQmac можно позвонить по телефонам +7 918 9 222 222, +7 988 666 666 8 в любое время. Или прийти. Просто так. Когда весело или очень тоскливо.\nВ iQmac можно забыть о серой повседневности. Погрузиться в атмосферу веселья и радости.\nВ iQmac Вы сами диктуете условия и создаете собственный маленький мир, а мы просто хотим, чтобы Вам было в нем хорошо!\n";
+
+/* Class = "IBUILabel"; text = "Contact us"; ObjectID = "5Dv-DO-ekK"; */
+"5Dv-DO-ekK.text" = "Contact us";
+
+/* Class = "IBUINavigationItem"; title = "Cart"; ObjectID = "5TH-iv-Wnk"; */
+"5TH-iv-Wnk.title" = "Cart";
+
+/* Class = "IBUIButton"; normalTitle = "Buy now"; ObjectID = "7M9-fD-PAn"; */
+"7M9-fD-PAn.normalTitle" = "Buy now";
+
+/* Class = "IBUILabel"; text = "Samsung Galaxy Tab 10.1"; ObjectID = "80t-RE-jQq"; */
+"80t-RE-jQq.text" = "Samsung Galaxy Tab 10.1";
+
+/* Class = "IBUILabel"; text = "Shipping"; ObjectID = "8yZ-oP-nai"; */
+"8yZ-oP-nai.text" = "Shipping";
+
+/* Class = "IBUILabel"; text = "News"; ObjectID = "9uh-zv-c4D"; */
+"9uh-zv-c4D.text" = "News";
+
+/* Class = "IBUILabel"; text = "Region"; ObjectID = "A2r-k6-gzb"; */
+"A2r-k6-gzb.text" = "Region";
+
+/* Class = "IBUILabel"; text = "SelectedOption(s)"; ObjectID = "AbT-iH-Kuh"; */
+"AbT-iH-Kuh.text" = "SelectedOption(s)";
+
+/* Class = "IBUILabel"; text = "City"; ObjectID = "Bs2-Rq-RZA"; */
+"Bs2-Rq-RZA.text" = "City";
+
+/* Class = "IBUINavigationItem"; title = "Title"; ObjectID = "CVe-JV-kMW"; */
+"CVe-JV-kMW.title" = "Title";
+
+/* Class = "IBUILabel"; text = "Catalog"; ObjectID = "CcJ-yg-Xmo"; */
+"CcJ-yg-Xmo.text" = "Catalog";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "D0o-uZ-ZNU"; */
+"D0o-uZ-ZNU.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUIButton"; normalTitle = "Call"; ObjectID = "DPh-7H-HeF"; */
+"DPh-7H-HeF.normalTitle" = "Call";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "DW8-FL-dHI"; */
+"DW8-FL-dHI.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Checkbox"; ObjectID = "Daw-04-fMT"; */
+"Daw-04-fMT.text" = "Checkbox";
+
+/* Class = "IBUILabel"; text = "Service"; ObjectID = "FCb-jb-4ER"; */
+"FCb-jb-4ER.text" = "Service";
+
+/* Class = "IBUITabBarItem"; title = "Catalog"; ObjectID = "H60-Dr-ruu"; */
+"H60-Dr-ruu.title" = "Catalog";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "ISk-5c-OHz"; */
+"ISk-5c-OHz.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Warranty"; ObjectID = "K4n-UT-Vef"; */
+"K4n-UT-Vef.text" = "Warranty";
+
+/* Class = "IBUILabel"; text = "Phone"; ObjectID = "KCr-nm-TGf"; */
+"KCr-nm-TGf.text" = "Phone";
+
+/* Class = "IBUILabel"; text = "Description"; ObjectID = "N2d-2i-5Fd"; */
+"N2d-2i-5Fd.text" = "Description";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "N7h-Z8-ljb"; */
+"N7h-Z8-ljb.text" = "Email";
+
+/* Class = "IBUITextView"; text = "Вы можете забрать свою технику Apple прямо в нашем магазине, а можете воспользоваться услугами собственной курьерской службы iQmac.\n\nКурьерская доставка осуществляется в течение двух часов после получения нами Вашего заказа. Все расчеты за приобретенный товар можно произвести на месте, отдав деньги непосредственно курьеру, получив свой заказ и гарантийный талон.\n"; ObjectID = "Naw-1h-j0R"; */
+"Naw-1h-j0R.text" = "Вы можете забрать свою технику Apple прямо в нашем магазине, а можете воспользоваться услугами собственной курьерской службы iQmac.\n\nКурьерская доставка осуществляется в течение двух часов после получения нами Вашего заказа. Все расчеты за приобретенный товар можно произвести на месте, отдав деньги непосредственно курьеру, получив свой заказ и гарантийный талон.\n";
+
+/* Class = "IBUILabel"; text = "12'499$"; ObjectID = "NsP-Hd-9JQ"; */
+"NsP-Hd-9JQ.text" = "12'499$";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "Pzs-KL-uIe"; */
+"Pzs-KL-uIe.text" = "Detail";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "QKt-ff-GxW"; */
+"QKt-ff-GxW.title" = "Item";
+
+/* Class = "IBUINavigationItem"; title = "Contact us"; ObjectID = "RGY-XX-yr9"; */
+"RGY-XX-yr9.title" = "Contact us";
+
+/* Class = "IBUILabel"; text = "Value"; ObjectID = "RPc-X9-fxY"; */
+"RPc-X9-fxY.text" = "Value";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "S0n-4B-fqB"; */
+"S0n-4B-fqB.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Warranty"; ObjectID = "SYX-b6-kgO"; */
+"SYX-b6-kgO.title" = "Warranty";
+
+/* Class = "IBUILabel"; text = "Cart"; ObjectID = "TKh-4B-BFf"; */
+"TKh-4B-BFf.text" = "Cart";
+
+/* Class = "IBUILabel"; text = "Postcode"; ObjectID = "U48-CE-CLI"; */
+"U48-CE-CLI.text" = "Postcode";
+
+/* Class = "IBUINavigationItem"; title = "About"; ObjectID = "Vt6-i5-9Ab"; */
+"Vt6-i5-9Ab.title" = "About";
+
+/* Class = "IBUILabel"; text = "Our shops"; ObjectID = "WOr-gP-5G0"; */
+"WOr-gP-5G0.text" = "Our shops";
+
+/* Class = "IBUILabel"; text = "Special"; ObjectID = "Z6a-Kd-Vi3"; */
+"Z6a-Kd-Vi3.text" = "Special";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "afa-f5-SsP"; */
+"afa-f5-SsP.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "anY-h5-Am4"; */
+"anY-h5-Am4.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "About"; ObjectID = "bvb-Ay-kPY"; */
+"bvb-Ay-kPY.text" = "About";
+
+/* Class = "IBUINavigationItem"; title = "News"; ObjectID = "dUo-wm-q45"; */
+"dUo-wm-q45.title" = "News";
+
+/* Class = "IBUILabel"; text = "Reward Points: 1000"; ObjectID = "f3s-64-zBA"; */
+"f3s-64-zBA.text" = "Reward Points: 1000";
+
+/* Class = "IBUILabel"; text = "Radio"; ObjectID = "f5N-Yu-GxG"; */
+"f5N-Yu-GxG.text" = "Radio";
+
+/* Class = "IBUINavigationItem"; title = "Our shops"; ObjectID = "fy4-eW-FHb"; */
+"fy4-eW-FHb.title" = "Our shops";
+
+/* Class = "IBUILabel"; text = "Select"; ObjectID = "gM5-3c-Fg3"; */
+"gM5-3c-Fg3.text" = "Select";
+
+/* Class = "IBUINavigationItem"; title = "Shipping"; ObjectID = "hB4-CD-czF"; */
+"hB4-CD-czF.title" = "Shipping";
+
+/* Class = "IBUILabel"; text = "Option"; ObjectID = "iWc-vd-NaD"; */
+"iWc-vd-NaD.text" = "Option";
+
+/* Class = "IBUILabel"; text = "Address 1"; ObjectID = "ieh-ET-STc"; */
+"ieh-ET-STc.text" = "Address 1";
+
+/* Class = "IBUITabBarItem"; title = "Cart"; ObjectID = "kKF-cJ-YyY"; */
+"kKF-cJ-YyY.title" = "Cart";
+
+/* Class = "IBUINavigationItem"; title = "Catalog"; ObjectID = "lzC-lu-o97"; */
+"lzC-lu-o97.title" = "Catalog";
+
+/* Class = "IBUILabel"; text = "Key"; ObjectID = "mKI-zR-TeY"; */
+"mKI-zR-TeY.text" = "Key";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "nXz-Zf-a2X"; */
+"nXz-Zf-a2X.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Country"; ObjectID = "pfh-su-PYQ"; */
+"pfh-su-PYQ.text" = "Country";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "qSC-lp-3fz"; */
+"qSC-lp-3fz.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Select: Blue;\nRadio: rad1, rad2;\nFile: test.jpg"; ObjectID = "qbV-KE-YOW"; */
+"qbV-KE-YOW.text" = "Select: Blue;\nRadio: rad1, rad2;\nFile: test.jpg";
+
+/* Class = "IBUILabel"; text = "Address 2"; ObjectID = "r5V-u5-xT4"; */
+"r5V-u5-xT4.text" = "Address 2";
+
+/* Class = "IBUISegmentedControl"; rQB-4n-yf8.segmentTitles[0] = "Contacts"; ObjectID = "rQB-4n-yf8"; */
+"rQB-4n-yf8.segmentTitles[0]" = "Contacts";
+
+/* Class = "IBUISegmentedControl"; rQB-4n-yf8.segmentTitles[1] = "Bank account"; ObjectID = "rQB-4n-yf8"; */
+"rQB-4n-yf8.segmentTitles[1]" = "Bank account";
+
+/* Class = "IBUISegmentedControl"; rQB-4n-yf8.segmentTitles[2] = "Email us"; ObjectID = "rQB-4n-yf8"; */
+"rQB-4n-yf8.segmentTitles[2]" = "Email us";
+
+/* Class = "IBUILabel"; text = "ProductName"; ObjectID = "rpD-sC-Jzx"; */
+"rpD-sC-Jzx.text" = "ProductName";
+
+/* Class = "IBUILabel"; text = "Last name"; ObjectID = "sJu-Kw-F76"; */
+"sJu-Kw-F76.text" = "Last name";
+
+/* Class = "IBUITextView"; text = "Вы покупаете в iQmac технику Apple, произведенную на официальном заводе. Никаких черных, серых и серо-буро-малиновых вариантов не предусмотрено.\n \nНа каждое устройство, приобретенное у нас, действует годовая гарантия на ремонт и двухнедельная гарантия на замену купленного в iQmac товара на новый, в случае обнаружения заводского брака.\n \nДа, об этом Вам обязательно стоит знать, раздумывая, где купить iPhone или iPad: все устройства, приобретенные у нас, будут работать без каких-либо ограничений. С любой SIM-картой, с любым оператором."; ObjectID = "u9f-9k-eZr"; */
+"u9f-9k-eZr.text" = "Вы покупаете в iQmac технику Apple, произведенную на официальном заводе. Никаких черных, серых и серо-буро-малиновых вариантов не предусмотрено.\n \nНа каждое устройство, приобретенное у нас, действует годовая гарантия на ремонт и двухнедельная гарантия на замену купленного в iQmac товара на новый, в случае обнаружения заводского брака.\n \nДа, об этом Вам обязательно стоит знать, раздумывая, где купить iPhone или iPad: все устройства, приобретенные у нас, будут работать без каких-либо ограничений. С любой SIM-картой, с любым оператором.";
+
+/* Class = "IBUINavigationItem"; title = "Menu"; ObjectID = "uR0-uH-N8f"; */
+"uR0-uH-N8f.title" = "Menu";
+
+/* Class = "IBUIButton"; normalTitle = "Add"; ObjectID = "xbt-OK-ks6"; */
+"xbt-OK-ks6.normalTitle" = "Add";
+
+/* Class = "IBUILabel"; text = "CategoryName"; ObjectID = "yAf-hP-rhn"; */
+"yAf-hP-rhn.text" = "CategoryName";
+
+/* Class = "IBUITextView"; text = "В iQmac есть собственный сервисный центр.\n\nНаши мастера знают всё о том, как устроена техника Apple изнутри. Они понимают, как расстраивается пользователь, если по той или иной причине не имеет возможности пользоваться своим гаджетом. Именно поэтому мы стараемся сделать так, чтобы ремонт и устранение неполадок в нашем сервисном центре занимал несколько часов.\nА еще клиенты iQmac могут получить бесплатную консультацию по эксплуатации любого «яблочного устройства», узнать о новых программах и заказать их бесплатную установку или прошивку  айфона или айпада.\n \nМы имеем в наличии все комплектующие на iPhone 4, iPhone 4s, iPhone 5, iPhone 5s и iPad 2, iPad 3, iPad 4, iPad air. Имея уникальные возможности, мы используем в ремонте ОРИГИНАЛЬНЫЕ запчасти!!! У нас приемлемые цены! И так же мы предоставляем гарантию на выполненный ремонт и замененные запчасти!!!"; ObjectID = "z14-zc-qCM"; */
+"z14-zc-qCM.text" = "В iQmac есть собственный сервисный центр.\n\nНаши мастера знают всё о том, как устроена техника Apple изнутри. Они понимают, как расстраивается пользователь, если по той или иной причине не имеет возможности пользоваться своим гаджетом. Именно поэтому мы стараемся сделать так, чтобы ремонт и устранение неполадок в нашем сервисном центре занимал несколько часов.\nА еще клиенты iQmac могут получить бесплатную консультацию по эксплуатации любого «яблочного устройства», узнать о новых программах и заказать их бесплатную установку или прошивку  айфона или айпада.\n \nМы имеем в наличии все комплектующие на iPhone 4, iPhone 4s, iPhone 5, iPhone 5s и iPad 2, iPad 3, iPad 4, iPad air. Имея уникальные возможности, мы используем в ремонте ОРИГИНАЛЬНЫЕ запчасти!!! У нас приемлемые цены! И так же мы предоставляем гарантию на выполненный ремонт и замененные запчасти!!!";
