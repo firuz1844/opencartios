@@ -11,7 +11,7 @@ or higher.<br>
 2. Open ‘opencart.xcworkspace’ file<br>
 3. In Xcode open menu ‘Product > Destination > iOS’ select your device or any
 other instance of iOS simulator installed on you computer.<br>
-8. Pres Cmd+R on keyboard or ‘Build and run button’ (Black triangle button on the left top
+8. Press Cmd+R on keyboard or ‘Build and run button’ (Black triangle button on the left top
 corner of Xcode) to run your project in the iOS Simulator.<br>
 
 <b>Important!</b>
